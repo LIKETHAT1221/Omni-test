@@ -1,2 +1,4 @@
-pip install streamlit plotly pandas numpy
-streamlit run app.py
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.15.0
